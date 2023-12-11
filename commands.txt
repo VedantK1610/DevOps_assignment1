@@ -1,5 +1,5 @@
 for cmd 
-git config -global user.name=vedantk1610 
+git config --global user.name "vedantk1610" 
 
 create repo
 1. git init
@@ -10,3 +10,6 @@ create repo
 6. git push origin main
 7. git pull origin main
 
+Branch 
+1. git branch
+2. git checkout -b newbranch
