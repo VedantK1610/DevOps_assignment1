@@ -13,3 +13,18 @@ create repo
 Branch 
 1. git branch
 2. git checkout -b newbranch
+3. git checkout main 
+4. git merge newbranch 
+5. git branch -D newbranch
+6. git push origin --delete newbranch
+
+reset add
+1. git reset assignment1.html
+2. git restore assignment1.html 
+
+reset commit 
+1. git reset --soft HEAD~1 
+2. git restore assignment1.html 
+3. git reset assignment1.html
+4. git restore assignment1.html 
+
