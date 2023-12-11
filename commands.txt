@@ -1,0 +1,12 @@
+for cmd 
+git config -global user.name=vedantk1610 
+
+create repo
+1. git init
+2. git branch -M main
+3. git remote add origin link
+4. git add .
+5. git commit -m msg
+6. git push origin main
+7. git pull origin main
+
